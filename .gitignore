@@ -69,3 +69,6 @@ dist/*
 **/.DS_Store
 **/**/.DS_Store
 */.DS_Store
+
+# Back when I didn't know React Native existed
+flutter
